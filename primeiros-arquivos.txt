@@ -1,0 +1,17 @@
+Olá, oque eu aprendi com o git
+git é um software de controle de versão, que ajuda grupos de desenvolvedores em seus projetos 
+permitindo desenvolver com mais segurança, mantendo o projeto em sua maquina e descentralizado
+e permitindo voltar a uma versão anterior
+
+git init
+git config user.name global ' nome '
+git config user.email global 'email'
+git add.
+git status
+git log
+git merge
+git clone
+git push
+git pull
+git commit -m 'mensagem'
+git branch
